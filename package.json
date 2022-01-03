@@ -1,0 +1,11 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "chatbot with TypeScript and Node Express",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
